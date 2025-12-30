@@ -1,2 +1,2 @@
-*.xlsx filter=lfs diff=lfs merge=lfs -text
+seguro-rural-limpo-2016-2021.xlsx filter=lfs diff=lfs merge=lfs -text
 dados-2016-2021.xlsx filter=lfs diff=lfs merge=lfs -text
